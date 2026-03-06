@@ -1,0 +1,113 @@
+100 NumPy Practice Problems
+1–20: Array Creation
+
+Create a NumPy array from the list [10,20,30,40].
+Create a 1D array with numbers from 1 to 20.
+Create a 3×3 array of zeros.
+Create a 4×4 array of ones.
+Create an array of even numbers from 2 to 50.
+Create an array of odd numbers from 1 to 25.
+Create a 5×5 identity matrix.
+Create an array of numbers 10 to 100 with step 10.
+Create a 3×3 matrix with random integers between 1 and 20.
+Create an array of 10 random floating numbers.
+Create an array with 5 equally spaced numbers between 0 and 10.
+Create an array of 100 zeros.
+Create an array of 50 ones.
+Create an array with values from 1 to 100.
+Create a 2×5 array filled with 7.
+Create a 6×6 matrix of random numbers.
+Create a NumPy array from a tuple (5,10,15,20).
+Create an array with numbers divisible by 3 from 1–50.
+Create a 4×4 matrix with random floats.
+Create a 10×10 matrix of zeros. 
+
+21–40: Array Properties
+
+Find the shape of an array.
+Find the size of an array.
+Find the number of dimensions.
+Find the datatype of elements.
+Convert an array datatype from int to float.
+Reshape a 1D array of 12 elements into 3×4.
+Flatten a 2D array into 1D.
+Convert a Python list to a NumPy array.
+Convert a NumPy array to a Python list.
+Change the datatype of array elements to string.
+Reshape a 1D array into 4×3.
+Find memory size used by an array.
+Create a copy of an array.
+Create a view of an array.
+Check if two arrays share memory.
+Transpose a matrix.
+Swap two axes of an array.
+Convert a 2D array into 3D.
+Stack two arrays vertically.
+Stack two arrays horizontally.
+41–60: Indexing & Slicing
+Print the first element of an array.
+Print the last element of an array.
+Print elements from index 3 to 7.
+Print every second element.
+Reverse a NumPy array.
+Extract the first row of a matrix.
+Extract the second column of a matrix.
+Extract a 3×3 submatrix from a matrix.
+Replace the 4th element with 100.
+Replace all odd numbers with 0.
+Replace all negative numbers with 0.
+Extract elements greater than 20.
+Extract elements less than 10.
+Extract elements between 10 and 30.
+Find indices of elements greater than 50.
+Replace numbers greater than 50 with 50.
+Select elements divisible by 5.
+Select elements not divisible by 3.
+Replace NaN values with 0.
+Extract diagonal elements from a matrix.
+
+61–80: Mathematical Operations
+
+Add two arrays.
+Subtract two arrays.
+Multiply two arrays.
+Divide two arrays.
+Find the square of each element.
+Find the cube of each element.
+Find the square root of elements.
+Find the sum of all elements.
+Find the product of all elements.
+Find the mean of the array.
+Find the median of the array.
+Find the standard deviation.
+Find the variance.
+Find the maximum value.
+Find the minimum value.
+Find the index of maximum value.
+Find the index of minimum value.
+Calculate row-wise sum of a matrix.
+Calculate column-wise sum of a matrix.
+Normalize values between 0 and 1.
+
+81–100: Advanced Basic Operations
+
+Sort an array in ascending order.
+Sort an array in descending order.
+Find unique elements in an array.
+Count frequency of elements in an array.
+Count elements greater than 10.
+Find duplicate elements.
+Remove duplicates from an array.
+Concatenate two arrays.
+Split an array into 3 equal parts.
+Insert an element into an array.
+Delete an element from an array.
+Repeat elements of an array.
+Tile an array multiple times.
+Find common elements in two arrays.
+Check if arrays are equal.
+Find difference between two arrays.
+Find intersection of two arrays.
+Shuffle elements randomly.
+Generate a random permutation.
+Create a checkerboard pattern matrix.
