@@ -1,0 +1,5 @@
+import numpy as np
+a = np.array([-1,2,3,-5,-9,-8,5])
+print("Array :",a)
+a[a<0] = 0
+print("replacable negative element :",a)
