@@ -44,7 +44,9 @@ Swap two axes of an array.
 Convert a 2D array into 3D.
 Stack two arrays vertically.
 Stack two arrays horizontally.
+
 41–60: Indexing & Slicing
+
 Print the first element of an array.
 Print the last element of an array.
 Print elements from index 3 to 7.
