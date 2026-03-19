@@ -1,0 +1,20 @@
+Use groupby()
+Find mean of groups
+Find sum of groups
+Find count of groups
+Apply multiple aggregations
+Group by multiple columns
+Find max per group
+Find min per group
+Sort grouped data
+Reset index after groupby
+Use agg() function
+Use transform()
+Use apply()
+Group and filter data
+Find top values per group
+Count occurrences per group
+Group by date column
+Group by categorical column
+Use pivot table
+Compare group results

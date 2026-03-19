@@ -1,0 +1,30 @@
+Import pandas and check version
+Create a Series from a list
+Create a Series with custom index
+Convert list to DataFrame
+Create DataFrame from dictionary
+Display first 5 rows
+Display last 5 rows
+Check shape of DataFrame
+Check column names
+Check data types
+Rename columns
+Select single column
+Select multiple columns
+Select rows using index
+Use .loc[] to access data
+Use .iloc[] to access data
+Add a new column
+Delete a column
+Check missing values
+Fill missing values
+Drop missing values
+Replace values in DataFrame
+Sort values by column
+Sort index
+Reset index
+Set a column as index
+Check unique values
+Count unique values
+Get value counts
+Convert data type

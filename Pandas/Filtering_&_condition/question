@@ -1,0 +1,20 @@
+Filter rows where value > 50
+Filter rows where value < 20
+Use multiple conditions (&, |)
+Filter using isin()
+Filter using between()
+Filter null values
+Filter non-null values
+Use query() method
+Select rows based on string condition
+Filter using str.contains()
+Filter using str.startswith()
+Filter using str.endswith()
+Replace values using condition
+Apply condition on multiple columns
+Use boolean indexing
+Get rows with max value
+Get rows with min value
+Remove duplicate rows
+Keep first duplicate only
+Keep last duplicate only

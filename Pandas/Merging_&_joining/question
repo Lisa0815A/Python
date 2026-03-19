@@ -1,0 +1,15 @@
+Merge two DataFrames
+Inner join
+Left join
+Right join
+Outer join
+Merge on multiple columns
+Merge using index
+Join DataFrames
+Concatenate DataFrames
+Append rows
+Stack DataFrames
+Unstack DataFrame
+Combine DataFrames
+Handle duplicate columns after merge
+Merge with different column names

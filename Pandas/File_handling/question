@@ -1,0 +1,10 @@
+Read CSV file
+Write CSV file
+Read Excel file
+Write Excel file
+Read JSON file
+Convert DataFrame to JSON
+Read text file
+Save DataFrame to file
+Load large dataset
+Handle encoding issues
