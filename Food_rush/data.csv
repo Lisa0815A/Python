@@ -1,0 +1,201 @@
+order_id,time,item,category,price
+1,18:45,Salad,Healthy,180
+2,10:45,Sandwich,Fast Food,150
+3,11:45,Salad,Healthy,180
+4,13:15,Sandwich,Fast Food,150
+5,19:45,Pasta,Italian,300
+6,11:45,Burger,Fast Food,120
+7,18:30,Fries,Fast Food,100
+8,20:45,Sandwich,Fast Food,150
+9,10:45,Burger,Fast Food,120
+10,19:30,Sandwich,Fast Food,150
+11,11:45,Pasta,Italian,300
+12,14:45,Sandwich,Fast Food,150
+13,11:30,Fries,Fast Food,100
+14,14:45,Pizza,Fast Food,250
+15,19:30,Pizza,Fast Food,250
+16,20:15,Burger,Fast Food,120
+17,14:15,Pasta,Italian,300
+18,10:00,Sandwich,Fast Food,150
+19,21:00,Fries,Fast Food,100
+20,11:30,Pasta,Italian,300
+21,18:15,Salad,Healthy,180
+22,14:45,Pasta,Italian,300
+23,21:30,Burger,Fast Food,120
+24,13:00,Sandwich,Fast Food,150
+25,21:30,Fries,Fast Food,100
+26,11:00,Salad,Healthy,180
+27,20:15,Sandwich,Fast Food,150
+28,12:00,Salad,Healthy,180
+29,10:15,Salad,Healthy,180
+30,20:30,Salad,Healthy,180
+31,12:30,Pasta,Italian,300
+32,10:45,Pasta,Italian,300
+33,10:30,Sandwich,Fast Food,150
+34,13:00,Burger,Fast Food,120
+35,21:30,Pasta,Italian,300
+36,10:00,Sandwich,Fast Food,150
+37,19:15,Salad,Healthy,180
+38,19:30,Burger,Fast Food,120
+39,12:00,Pizza,Fast Food,250
+40,18:45,Pizza,Fast Food,250
+41,21:00,Salad,Healthy,180
+42,14:00,Sandwich,Fast Food,150
+43,20:45,Sandwich,Fast Food,150
+44,20:00,Burger,Fast Food,120
+45,21:15,Pasta,Italian,300
+46,12:45,Burger,Fast Food,120
+47,14:45,Pasta,Italian,300
+48,10:00,Pasta,Italian,300
+49,21:00,Pasta,Italian,300
+50,20:15,Burger,Fast Food,120
+51,18:30,Sandwich,Fast Food,150
+52,13:15,Pizza,Fast Food,250
+53,19:00,Fries,Fast Food,100
+54,19:30,Fries,Fast Food,100
+55,21:45,Burger,Fast Food,120
+56,10:00,Pizza,Fast Food,250
+57,10:00,Burger,Fast Food,120
+58,12:15,Sandwich,Fast Food,150
+59,11:45,Sandwich,Fast Food,150
+60,12:00,Burger,Fast Food,120
+61,18:15,Pizza,Fast Food,250
+62,12:00,Pasta,Italian,300
+63,11:45,Pizza,Fast Food,250
+64,21:45,Pasta,Italian,300
+65,10:00,Sandwich,Fast Food,150
+66,13:15,Burger,Fast Food,120
+67,20:45,Pasta,Italian,300
+68,12:30,Pizza,Fast Food,250
+69,11:15,Fries,Fast Food,100
+70,11:00,Fries,Fast Food,100
+71,13:30,Pasta,Italian,300
+72,12:00,Pizza,Fast Food,250
+73,11:00,Fries,Fast Food,100
+74,14:30,Burger,Fast Food,120
+75,19:15,Fries,Fast Food,100
+76,20:15,Burger,Fast Food,120
+77,20:15,Pasta,Italian,300
+78,21:00,Pizza,Fast Food,250
+79,18:00,Sandwich,Fast Food,150
+80,12:15,Pizza,Fast Food,250
+81,10:15,Sandwich,Fast Food,150
+82,11:15,Fries,Fast Food,100
+83,19:00,Fries,Fast Food,100
+84,19:45,Fries,Fast Food,100
+85,10:45,Sandwich,Fast Food,150
+86,10:00,Pasta,Italian,300
+87,19:30,Salad,Healthy,180
+88,20:00,Pizza,Fast Food,250
+89,12:45,Pasta,Italian,300
+90,14:00,Pasta,Italian,300
+91,19:15,Pasta,Italian,300
+92,12:45,Burger,Fast Food,120
+93,10:45,Sandwich,Fast Food,150
+94,11:00,Burger,Fast Food,120
+95,14:45,Pizza,Fast Food,250
+96,14:30,Fries,Fast Food,100
+97,11:00,Fries,Fast Food,100
+98,18:15,Pizza,Fast Food,250
+99,21:45,Pasta,Italian,300
+100,10:15,Burger,Fast Food,120
+101,21:45,Salad,Healthy,180
+102,21:15,Sandwich,Fast Food,150
+103,13:45,Pasta,Italian,300
+104,10:45,Burger,Fast Food,120
+105,21:00,Fries,Fast Food,100
+106,11:45,Pasta,Italian,300
+107,19:15,Burger,Fast Food,120
+108,20:15,Pasta,Italian,300
+109,12:30,Pasta,Italian,300
+110,14:30,Pasta,Italian,300
+111,12:30,Pizza,Fast Food,250
+112,21:45,Burger,Fast Food,120
+113,10:30,Pasta,Italian,300
+114,13:30,Sandwich,Fast Food,150
+115,10:45,Salad,Healthy,180
+116,12:45,Burger,Fast Food,120
+117,21:45,Fries,Fast Food,100
+118,11:45,Pasta,Italian,300
+119,11:15,Sandwich,Fast Food,150
+120,18:30,Fries,Fast Food,100
+121,20:30,Burger,Fast Food,120
+122,18:30,Pasta,Italian,300
+123,20:00,Pasta,Italian,300
+124,14:15,Salad,Healthy,180
+125,13:00,Burger,Fast Food,120
+126,13:30,Sandwich,Fast Food,150
+127,21:00,Salad,Healthy,180
+128,20:30,Pasta,Italian,300
+129,10:15,Fries,Fast Food,100
+130,19:30,Sandwich,Fast Food,150
+131,14:00,Fries,Fast Food,100
+132,20:45,Pizza,Fast Food,250
+133,11:00,Burger,Fast Food,120
+134,13:30,Burger,Fast Food,120
+135,14:45,Pasta,Italian,300
+136,20:00,Salad,Healthy,180
+137,20:15,Fries,Fast Food,100
+138,21:45,Sandwich,Fast Food,150
+139,18:15,Pasta,Italian,300
+140,18:30,Salad,Healthy,180
+141,20:15,Burger,Fast Food,120
+142,21:00,Fries,Fast Food,100
+143,13:15,Salad,Healthy,180
+144,21:45,Pizza,Fast Food,250
+145,20:30,Burger,Fast Food,120
+146,12:00,Salad,Healthy,180
+147,18:00,Sandwich,Fast Food,150
+148,14:45,Salad,Healthy,180
+149,21:30,Sandwich,Fast Food,150
+150,11:30,Salad,Healthy,180
+151,19:00,Sandwich,Fast Food,150
+152,14:45,Fries,Fast Food,100
+153,11:30,Pizza,Fast Food,250
+154,12:00,Pizza,Fast Food,250
+155,12:30,Pizza,Fast Food,250
+156,13:15,Sandwich,Fast Food,150
+157,13:30,Sandwich,Fast Food,150
+158,14:45,Salad,Healthy,180
+159,12:30,Pizza,Fast Food,250
+160,21:00,Pizza,Fast Food,250
+161,10:30,Sandwich,Fast Food,150
+162,19:30,Burger,Fast Food,120
+163,18:45,Salad,Healthy,180
+164,14:30,Pizza,Fast Food,250
+165,20:15,Pizza,Fast Food,250
+166,14:15,Pizza,Fast Food,250
+167,12:30,Burger,Fast Food,120
+168,11:00,Pizza,Fast Food,250
+169,12:00,Pasta,Italian,300
+170,14:30,Salad,Healthy,180
+171,20:45,Pizza,Fast Food,250
+172,10:15,Salad,Healthy,180
+173,21:00,Burger,Fast Food,120
+174,14:45,Pizza,Fast Food,250
+175,20:15,Pasta,Italian,300
+176,11:30,Fries,Fast Food,100
+177,14:15,Fries,Fast Food,100
+178,20:00,Pizza,Fast Food,250
+179,12:15,Sandwich,Fast Food,150
+180,13:00,Fries,Fast Food,100
+181,12:45,Pasta,Italian,300
+182,12:15,Pizza,Fast Food,250
+183,20:00,Pasta,Italian,300
+184,10:00,Salad,Healthy,180
+185,18:30,Salad,Healthy,180
+186,10:30,Pizza,Fast Food,250
+187,19:45,Pasta,Italian,300
+188,13:45,Pizza,Fast Food,250
+189,10:45,Pasta,Italian,300
+190,21:45,Pasta,Italian,300
+191,10:30,Pasta,Italian,300
+192,14:15,Pasta,Italian,300
+193,19:45,Fries,Fast Food,100
+194,12:45,Pasta,Italian,300
+195,14:15,Pizza,Fast Food,250
+196,14:15,Sandwich,Fast Food,150
+197,21:45,Pasta,Italian,300
+198,20:15,Salad,Healthy,180
+199,14:30,Sandwich,Fast Food,150
+200,20:30,Fries,Fast Food,100
