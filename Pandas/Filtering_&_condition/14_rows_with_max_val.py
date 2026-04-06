@@ -7,3 +7,5 @@ df = pd.DataFrame({
 result = df[df['marks'] == df['marks'].max()]
 print("Filtering rows with maximum marks :")
 print(result)
+print("Filtering rows with minimum marks :")
+print(df[df['marks'] == df['marks'].min()])
